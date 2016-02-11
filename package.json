@@ -1,0 +1,23 @@
+{
+  "name": "api-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simoncrabtree/api-tester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simoncrabtree/api-tester/issues"
+  },
+  "homepage": "https://github.com/simoncrabtree/api-tester#readme",
+  "dependencies": {
+    "request-promise": "^2.0.0",
+    "tape": "^4.4.0"
+  }
+}
